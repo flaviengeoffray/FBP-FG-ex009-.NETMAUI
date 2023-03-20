@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarsFinder</name>
+    </assembly>
+    <members>
+        <member name="P:CarsFinder.ViewModel.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:CarsFinder.ViewModel.BaseViewModel.isBusy"/>
+        </member>
+        <member name="P:CarsFinder.ViewModel.BaseViewModel.Title">
+            <inheritdoc cref="F:CarsFinder.ViewModel.BaseViewModel.title"/>
+        </member>
+        <member name="P:CarsFinder.ViewModel.CarsDetailsViewModel.Car">
+            <inheritdoc cref="F:CarsFinder.ViewModel.CarsDetailsViewModel.car"/>
+        </member>
+        <member name="F:CarsFinder.ViewModel.CarsDetailsViewModel.openMapCommand">
+            <summary>The backing field for <see cref="P:CarsFinder.ViewModel.CarsDetailsViewModel.OpenMapCommand"/>.</summary>
+        </member>
+        <member name="P:CarsFinder.ViewModel.CarsDetailsViewModel.OpenMapCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CarsFinder.ViewModel.CarsDetailsViewModel.OpenMap"/>.</summary>
+        </member>
+        <member name="P:CarsFinder.ViewModel.CarsViewModel.IsRefreshing">
+            <inheritdoc cref="F:CarsFinder.ViewModel.CarsViewModel.isRefreshing"/>
+        </member>
+        <member name="F:CarsFinder.ViewModel.CarsViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:CarsFinder.ViewModel.CarsViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:CarsFinder.ViewModel.CarsViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CarsFinder.ViewModel.CarsViewModel.GoToDetails(CarsFinder.Model.Car)"/>.</summary>
+        </member>
+        <member name="F:CarsFinder.ViewModel.CarsViewModel.getCarsCommand">
+            <summary>The backing field for <see cref="P:CarsFinder.ViewModel.CarsViewModel.GetCarsCommand"/>.</summary>
+        </member>
+        <member name="P:CarsFinder.ViewModel.CarsViewModel.GetCarsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CarsFinder.ViewModel.CarsViewModel.GetCarsAsync"/>.</summary>
+        </member>
+        <member name="F:CarsFinder.ViewModel.CarsViewModel.getClosestCarsCommand">
+            <summary>The backing field for <see cref="P:CarsFinder.ViewModel.CarsViewModel.GetClosestCarsCommand"/>.</summary>
+        </member>
+        <member name="P:CarsFinder.ViewModel.CarsViewModel.GetClosestCarsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CarsFinder.ViewModel.CarsViewModel.GetClosestCars"/>.</summary>
+        </member>
+    </members>
+</doc>
