@@ -21,10 +21,13 @@ Features :
 <br/>
 Test video :
 <br/>
-https://user-images.githubusercontent.com/97790963/226311462-943768c4-cad2-4860-8408-12ae7603d7c3.mp4
+
+
+https://user-images.githubusercontent.com/97790963/226314168-194b497b-7b2d-4054-b7e8-0aa655511402.mp4
+
 
 ![002](Screenshots/002.jpg)
 ![003](Screenshots/003.jpg)
 
-NB : Dark mode seems to not working on my emulater
+NB : Dark mode seems to not working on my emulator
 ![004](Screenshots/004.jpg)
