@@ -29,5 +29,5 @@ https://user-images.githubusercontent.com/97790963/226314168-194b497b-7b2d-4054-
 ![002](Screenshots/002.jpg)
 ![003](Screenshots/003.jpg)
 
-NB : Dark mode seems to not working on my emulator
+NB : Dark mode seems to not working with my emulator
 ![004](Screenshots/004.jpg)
